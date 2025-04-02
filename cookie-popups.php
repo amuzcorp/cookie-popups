@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Cookie Popups
- * Plugin URI: 
+ * Plugin URI: https://github.com/amuzcorp/cookie-popups
  * Description: 쿠키 팝업 관리 플러그인
  * Version: 1.0.0
- * Author: Your Name
+ * Author: xiso
  * Text Domain: cookie-popups
  */
 
