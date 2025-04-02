@@ -3,7 +3,7 @@
  * Plugin Name: Cookie Popups
  * Plugin URI: https://github.com/amuzcorp/cookie-popups
  * Description: 쿠키 팝업 관리 플러그인
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: xiso
  * Text Domain: cookie-popups
  */
